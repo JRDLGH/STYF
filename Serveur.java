@@ -7,7 +7,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;
 /*
- * www.javacademia.com
+ * author Cedric Lambin
  */
 public class Serveur {
  
