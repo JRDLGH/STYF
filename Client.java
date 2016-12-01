@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 /*
- * www.javacademia.com
+ * author Cedric Lambin
  */
 public class Client {
 
